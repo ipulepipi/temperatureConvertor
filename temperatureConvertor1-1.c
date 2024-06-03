@@ -21,6 +21,8 @@ int main() {
         printf("%3.0f\t%6.1f\n", fahr, celsius); //added 3d to make it 3 digit wide and add 6d to make it 6 digit wide
         fahr = fahr + step;
     }
+    printf("\n\n");
+    printf("Celcius to Fahrenheit\n\n");
     
 
     return 0;
