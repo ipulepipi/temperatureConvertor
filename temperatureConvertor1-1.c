@@ -13,6 +13,7 @@ int main() {
     upper = 300; /*upper limit*/
     step = 20;
     
+    printf("Fahrenheit to Celcius");
     fahr = lower;
     while (fahr <= upper) 
     {
